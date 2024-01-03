@@ -1,15 +1,15 @@
 {
-  "name": "@dashkite/rio-page-router",
+  "name": "@dashkite/rio-oxygen",
   "version": "0.0.0",
-  "description": "Rio Combinators For Page Routing",
+  "description": "Rio Combinators For Oxygen Page Routing",
   "keywords": [],
-  "homepage": "https://github.com/dashkite/rio-page-router#readme",
+  "homepage": "https://github.com/dashkite/rio-oxygen#readme",
   "bugs": {
-    "url": "https://github.com/dashkite/rio-page-router/issues"
+    "url": "https://github.com/dashkite/rio-oxygen/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashkite/rio-page-router.git"
+    "url": "git+https://github.com/dashkite/rio-oxygen.git"
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Daniel Yoder",
