@@ -32,4 +32,6 @@ Router =
 
   browse: browse
 
+  back: -> history.back()
+
 export default Router
